@@ -1,7 +1,7 @@
 # Mobb Fixer for GitHub - Demo
 ### A demo repo showing how Mobb Fixer for GitHub works
 
-[Mobb Fixer](https://app.mobb.ai/github-fixer) monitors your pull requests for security issues and produces accurate code fix suggestions on the spot.
+Mobb Fixer monitors your pull requests for security issues and produces accurate code fix suggestions on the spot.
 \
 \
 \
