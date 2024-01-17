@@ -11,7 +11,7 @@ Then, define **FORTIFY_USER**, **FORTIFY_TENANT**, **FORTIFY_API_TOKEN** and **F
 
 Then, click below to see how automatic fixes on pull requests work:
 
-[<img width="250" alt="Start a vulnerable pull request" src="https://app.mobb.ai/gh-action/pull-request-button.svg" />](/../../pull/new/introduce-new-security-issue)
+[<img width="250" alt="Start a vulnerable pull request" src="https://app.mobb.ai/gh-action/pull-request-button.svg" />](/../../compare/main...introduce-new-security-issue)
 \
 \
 \
