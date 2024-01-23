@@ -5,7 +5,7 @@ Mobb Fixer monitors your pull requests for security issues and produces accurate
 \
 \
 \
-First, [enable GitHub Actions](/../../actions) on this repo.
+👉 First, [enable GitHub Actions](/../../actions) on this repo.
 
 Then, define **FORTIFY_USER**, **FORTIFY_TENANT**, **FORTIFY_API_TOKEN** and **FORTIFY_RELEASE_ID** in the [repo's secrets page](/../../settings/secrets/actions).
 
